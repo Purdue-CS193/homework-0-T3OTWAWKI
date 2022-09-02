@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-# Adarsh Veerapaneni's First CS193 Homework!
+# Adarsh Veerapaneni's First CS193 Homework
 Favorite things about CS193:
 - The random questions each class
 - The helpful tips about Terminal
